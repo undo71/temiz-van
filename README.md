@@ -2,6 +2,7 @@
 
 Van şehrindeki çöp kirliliği problemini çözmek için geliştirdiğim web uygulaması.
 
+
 ## 🎯 Problem
 Van'da çöpler kurallara uygun şekilde atılmıyor. Vatandaşların şikayetlerini
 kolayca bildirebildiği ve yetkililerin takip edebildiği bir sistem yoktu.
